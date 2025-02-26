@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = 'build/Embarcatech_Projeto_Final.uf2'
+elf = 'build/Embarcatech_Projeto_Final.elf'
+
+[console]
+baudrate = 115200
